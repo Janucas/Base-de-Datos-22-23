@@ -1,0 +1,34 @@
+SISTEMA GESTOR DE BASE DE DATOS
+Es un conjunto de herramientas o utilidades que permite la consulta o acceso, modificacion y borrado de datos
+ en mi base de datos.
+
+BASE DE DATOS
+Conjunto de datos almacenados de forma ordenada que permite su consulta, modificacion y borrado.
+
+EJEMPLOS SISTEMAS GESTORES RELACIONALES
+-Oracle
+-MySql
+
+EJEMPLOS SITEMAS GESTORES BASE DE DATOS NO RELACIONALES
+-MongoDbd
+-MariaDB
+-Cassandra
+
+DEBILIDADES DE UN SISTEMA DE FICHEROS
+-Concurrencia
+-Duplicidad
+-Tiempo
+-Espacio
+-Posibilidad de perdida o daño
+
+ORGANIZACION SISTEMAS GESTORES (pg8 pdf)
+--Segun el modelo
+
+--Segun el tipo de datos
+	-estatico
+	-dinamico
+--Segun el tipo de almacenamiento
+
+MODELO DE DATOS
+Es la forma en la que se organiza la informacion en una base de datos (definicion final pg5 pdf)
+

@@ -1,0 +1,42 @@
+-TRES OBJETIVOS DE LOS SISTEMAS GESTORES DE BASES DE DATOS
+	-Asegurar los tres niveles de abstraccion: fisico, logico y externo.
+	-Asegurar la independencia fisica y logica de los datos.
+	-Garantizar la seguridad de accesso de los usuarios
+
+-CASSANDRA ES JERARQUICO??
+	-No
+
+-3 TIPOS DE MODELOS RELACIONES
+	-Microsoft, oracle y MySql
+
+-SISTEMAS GESTORES DE BASES DE DATOS SEGUN LOS MODELOS
+	-En red
+	-Relacional
+	-Orientado a objetos
+	-Objeto-relacional
+
+
+-DESVENTAJAS DE LAS BASES DE DATOS EN FORMA DE FICHEROS
+
+	-Concurrencia
+	-Duplicidad o redundancia
+	-Tiempo empleado para la busqueda
+	-Espacio que ocupa
+	-Posibilidad de perdida o daño
+	-Formato de ficheros incompatibles
+	-Separacion y aislamiento de datos
+
+-DEFINIR SISTEMA GESTOR DE BASE DE DATOS
+	-Es un conjunto de herramientas o utilidades que permite la consulta o acceso, modificacion y borrado de datos
+ en mi base de datos.
+--------------------------------------------------------------------------------------------------------------------------------
+	-El sistema de gestión de la base de datos (SGBD) es una aplicación que permite a los usuarios definir, crear y mantener la base de datos y
+	proporciona acceso controlado a la misma. Es una herramienta que sirve de interfaz entre el usuario y las bases de datos.
+
+
+-DEFINIR BASE DE DATOS
+	-Conjunto de datos almacenados de forma ordenada que permite su consulta, modificacion y borrado.
+---------------------------------------------------------------------------------------------------------------------------------
+	-Una base de datos es un conjunto de datos almacenados entre los que existen relaciones lógica y ha sido diseñada para satisfacer los
+	requerimientos de información de una empresa u organización.
+

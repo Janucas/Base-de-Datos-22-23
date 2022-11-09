@@ -1,0 +1,4 @@
+-Definicion de repositorio
+-Repositorio existentes
+-Comandos usados para git
+-Utilizacion de comandos y repositorios
